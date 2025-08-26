@@ -1,4 +1,4 @@
-Live Link: https://mahfuz5634.github.io/Deshi-Dokan--Project/
+Live Link: https://mahfuz5634.github.io/Deshi-Dokan-Project/
 
 # <img src="./assets/logo.png" width=40> Deshi Dokan
 
